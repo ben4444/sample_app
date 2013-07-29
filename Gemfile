@@ -4,9 +4,9 @@ gem 'rails', '3.2.13'
 
 gem 'jquery-rails'
 
-gem 'webrat'
+/gem 'webrat'/
 
-gem 'sqlite3-ruby', '1.3.3', :require=>'sqlite3'
+/gem 'sqlite3-ruby', '1.3.3', :require=>'sqlite3'/
  gem 'pg'
 
 group :development do 
