@@ -8,7 +8,8 @@ gem 'pg'
 
 group :development do 
 	gem  'rspec-rails', '2.14.0'
-end
+   gem 'annotate', '~> 2.4.1.beta' 
+  end
 
 group :test do 
 	gem 'rspec', '2.14.1'
