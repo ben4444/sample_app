@@ -14,7 +14,7 @@ group :test do
 	gem 'rspec', '2.14.1'
 end
 
-#gem 'webrat'
+gem 'webrat'
 
-#gem 'sqlite3-ruby', '1.3.3', :require=>'sqlite3'
+gem 'sqlite3-ruby', '1.3.3', :require=>'sqlite3'
 
