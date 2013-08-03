@@ -6,6 +6,8 @@ gem 'jquery-rails'
 
 gem 'pg'
 
+gem 'gravatar_image_tag' , '0.1.0'
+
 group :development do 
 	gem  'rspec-rails', '2.14.0'
    gem 'annotate', '~> 2.4.1.beta' 
