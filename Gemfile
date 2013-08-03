@@ -18,7 +18,6 @@ group :test do
   gem 'factory_girl_rails' , '1.0'
 end
 
-gem 'webrat'
-
-gem 'sqlite3-ruby', '1.3.3', :require=>'sqlite3'
-
+group :production do 
+  gem 'pg'
+end 
