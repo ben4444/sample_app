@@ -11,6 +11,8 @@ gem 'gravatar_image_tag'
 group :development do 
 	gem  'rspec-rails', '2.14.0'
    gem 'annotate', '~> 2.4.1.beta' 
+  gem 'sqlite3'
+  gem 'webrat'
   end
 
 group :test do 
