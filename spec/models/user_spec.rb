@@ -10,7 +10,7 @@ require 'spec_helper'
            }
        end
    
-      it "sohuld create a new instance given a valid attribute" do
+      it "should create a new instance given a valid attribute" do
         User.create!(@attr)
       end
     

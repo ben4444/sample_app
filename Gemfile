@@ -13,7 +13,8 @@ group :development do
    gem 'annotate', '~> 2.4.1.beta' 
   gem 'sqlite3'
   gem 'webrat'
-  end
+  gem 'faker'
+end
 
 group :test do 
 	gem 'rspec', '2.14.1'
